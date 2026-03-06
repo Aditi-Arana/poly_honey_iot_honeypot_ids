@@ -1,0 +1,5 @@
+asyncssh
+paho-mqtt
+requests
+pyyaml
+docker
